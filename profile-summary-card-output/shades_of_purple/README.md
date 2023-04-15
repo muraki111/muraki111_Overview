@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/muraki111/muraki111_Overview/master/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
-```
-
-    
